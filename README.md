@@ -8,7 +8,9 @@ It is created to transfer an image from the app to a sudoku matrix, then show th
 
 ### Usages
 
-Run `main.py` on the terminal. Ensure that all the requirements are installed.
+First, drop the screenshot from your cell phone to computer.
+
+Second, run `main.py` on the terminal. Ensure that all the requirements are installed.
 
 ![Usages](./assets/cli_help.png)
 
@@ -16,7 +18,7 @@ Run `main.py` on the terminal. Ensure that all the requirements are installed.
 `-t`: Show the tips.![Show tips](./assets/cli_tips.png)
 `-a`: Show the answer.![Show tips](./assets/cli_answer.png)
 
-P.S. **ONLY** the exactly iOS app [Sudoku](https://itunes.apple.com/cn/app/sudoku-com-classic-puzzle/id1193508329?l=en&mt=8) will works.
+P.S. **ONLY** the exactly iOS app [Sudoku](https://itunes.apple.com/cn/app/sudoku-com-classic-puzzle/id1193508329?l=en&mt=8) will work.
 
 ## Requirements
 
