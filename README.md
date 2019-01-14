@@ -6,7 +6,22 @@ I have no idea why I am so addicted to playing sudoku from my cell phone recentl
 
 It is created to transfer an image from the app to a sudoku matrix, then show the tips or answer on the terminal.![Sudoku app](./assets/app.png)
 
-### Usages
+## Installation
+
+**NOTE**: Python 3.6 or higher is required.
+
+```
+# clone the repo
+$ git clone https://github.com/ryanfwy/sudoku.git
+
+# change the working directory to sherlock
+$ cd sudoku
+
+# install the requirements
+$ pip3 install -r requirements.txt
+```
+
+## Usages
 
 First, drop the screenshot from your cell phone to computer.
 
@@ -18,7 +33,7 @@ Second, run `main.py` on the terminal. Ensure that all the requirements are inst
 `-t`: Show the tips.![Show tips](./assets/cli_tips.png)
 `-a`: Show the answer.![Show tips](./assets/cli_answer.png)
 
-P.S. **ONLY** the exactly iOS app [Sudoku](https://itunes.apple.com/cn/app/sudoku-com-classic-puzzle/id1193508329?l=en&mt=8) will work.
+**NOTE**: **ONLY** the exactly iOS app [Sudoku](https://itunes.apple.com/cn/app/sudoku-com-classic-puzzle/id1193508329?l=en&mt=8) will work.
 
 ## Requirements
 

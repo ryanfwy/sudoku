@@ -1,0 +1,5 @@
+Keras
+tensorflow
+numpy
+opencv-contrib-python
+prettytable

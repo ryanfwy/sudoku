@@ -29,7 +29,7 @@ def _find_larger_cells(img, thresh=0):
         x, y, w, h = bbox
         x, y, w, h = x+2, y+2, w-2, h-2 # Reduce the frame
         if not 0.95 < w / h < 1.05:
-            continue # Not rentangle
+            continue # Not rectangle
 
         img_cut += [_cut_img(img, bbox)]
 
