@@ -2,7 +2,7 @@
 
 Get tips or answer from iOS app [Sudoku](https://itunes.apple.com/cn/app/sudoku-com-classic-puzzle/id1193508329?l=en&mt=8).
 
-I have no idea why I am so addicted to playing sudoku from my cell phone recently, so I create a CLI utility to help me save my time. 😂
+I have no idea why I am so addicted to playing sudoku on my cell phone recently, so I create a CLI utility to help me save my time. 😂
 
 It is created to transfer an image from the app to a sudoku matrix, then show the tips or answer on the terminal.![Sudoku app](./assets/app.png)
 
@@ -14,7 +14,7 @@ It is created to transfer an image from the app to a sudoku matrix, then show th
 # clone the repo
 $ git clone https://github.com/ryanfwy/sudoku.git
 
-# change the working directory to sherlock
+# change the working directory to sudoku
 $ cd sudoku
 
 # install the requirements
